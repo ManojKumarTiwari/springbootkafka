@@ -1,0 +1,5 @@
+package com.maddy.springbootkafkadec2019.kafkaproducer.producer;
+
+public class EmployeeJsonProducer {
+
+}

@@ -1,0 +1,10 @@
+package com.maddy.springbootkafkadec2019.kafkaconsumer.consumer;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class CarLocationConsumer {
+	
+	private static 
+
+}

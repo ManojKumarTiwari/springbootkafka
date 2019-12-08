@@ -1,0 +1,2 @@
+spring.kafka.consumer.group-id="string_message_consumer"
+spring.kafka.consumer.auto-offset-reset="earliest"
